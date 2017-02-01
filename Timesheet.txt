@@ -1,0 +1,24 @@
+Timesheet
+
+- Mon. 11/16  1.5 Hours
+- Tues. 11/17 4.5 Hours
+- Thur. 11/19 1 Hour
+- Sat. 11/21 2.5 Hours
+- Sun. 11/22 5 Hours
+- Mon. 11/23 1 Hour
+- Tues. 11/24 4 Hours
+- Thurs. 11/26 2 Hours
+- Fri. 11/27 3 Hours
+- Sat. 11/28 2 Hours
+- Mon. 11/30 5 Hours
+- Tues. 12/1 7 Hours
+- Wed. 12/2 4 Hours
+- Thurs. 12/2 3.5 Hours
+- Fri. 12/3 1 Hour
+- Sat. 12/4 7 Hours
+- Sun. 12/5 5 Hours
+- Mon. 12/6 5 Hours
+- Tues. 12/7 7 Hours
+- Wed. 12/8 2 Hours
+- Thurs. 12/9 1 Hour
+- Total: 74 Hours
